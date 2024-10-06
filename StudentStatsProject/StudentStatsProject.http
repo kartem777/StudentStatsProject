@@ -1,0 +1,6 @@
+@StudentStatsProject_HostAddress = http://localhost:5065
+
+GET {{StudentStatsProject_HostAddress}}
+Accept: application/json
+
+###
